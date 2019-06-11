@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/bin/Debug/netcoreapp2.0/vigilant-computing-machine.deps.json
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/bin/Debug/netcoreapp2.0/vigilant-computing-machine.runtimeconfig.json
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/bin/Debug/netcoreapp2.0/vigilant-computing-machine.runtimeconfig.dev.json
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/bin/Debug/netcoreapp2.0/vigilant-computing-machine.dll
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/bin/Debug/netcoreapp2.0/vigilant-computing-machine.pdb
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.AssemblyInfo.cs
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.dll
+/Users/frostnovus/Documents/GitHub/vigilant-computing-machine/obj/Debug/netcoreapp2.0/vigilant-computing-machine.pdb
